@@ -1,0 +1,2 @@
+# amongus
+details amongus
