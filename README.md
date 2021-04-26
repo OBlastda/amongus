@@ -1,6 +1,26 @@
 // Sets up among us commands. (necessary)
 k!setup
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Resets among us game! Used when a game has ended.
 k!reset
 
